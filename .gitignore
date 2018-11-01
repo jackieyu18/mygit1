@@ -1,0 +1,4 @@
+TestJava/bin/
+*.class
+!Test1.class
+TestJava/**/*.pdf
